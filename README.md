@@ -19,6 +19,7 @@ Write tasks into text area and press button to save it.
 
 ## View
 * Daily Planner App
+[https://iralototska.github.io/Daily-Planner-/](https://iralototska.github.io/Daily-Planner-/)
 ![Daily Planner App.](assets/images/app.png)
 
 
