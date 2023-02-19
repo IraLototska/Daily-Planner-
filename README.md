@@ -23,5 +23,5 @@ Write tasks into text area and press button to save it.
 
 
 ## Repository
-GitHub : [https://github.com/](https://github.com/) 
+GitHub : [https://github.com/IraLototska/Daily-Planner-](https://github.com/IraLototska/Daily-Planner-) 
 
